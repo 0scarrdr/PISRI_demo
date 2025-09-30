@@ -2,8 +2,6 @@
 
 [EN]
 
-# PISRI — Public Summary (Sanitised)
-
 This file is a public, organised and secure version of the PISRI (Integrated Security and Incident Response Platform) project.
 
 ## Quick overview
@@ -71,8 +69,6 @@ Below is a summary of the technologies and components used in the project (or pl
   <br/>   <br/>   <br/>   <br/> 
 
 [PT]
-
-# PISRI — Resumo Público (Sanitizado)
 
 Este ficheiro é uma versão pública, organizada e segura do projecto PISRI (Plataforma Integrada de Segurança e Resposta a Incidentes).
 
